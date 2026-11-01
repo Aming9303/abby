@@ -1,0 +1,28 @@
+[
+  {
+    "name": "desktop",
+    "viewport": {
+      "width": 1280,
+      "height": 950
+    },
+    "variant": "Beta",
+    "flag": false,
+    "title": "Vue ready",
+    "limit": 12,
+    "errors": [],
+    "external": []
+  },
+  {
+    "name": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "variant": "Beta",
+    "flag": false,
+    "title": "Vue ready",
+    "limit": 12,
+    "errors": [],
+    "external": []
+  }
+]
